@@ -41,7 +41,7 @@ export default {
   },
   methods : {
     increase(){
-      this.추천수 += 1;
+      this.추천수 += 2;
     }
   },
   components: {
