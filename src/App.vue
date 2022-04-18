@@ -34,7 +34,7 @@ export default {
       스타일 : "color : blue",
       menus : ['Home','Shop','About'],
       products : ['역삼동원룸', '천호동원룸', '마포구원룸'],
-      product2 : ['역삼동원룸', '천호동원룸', '마포구원룸'],
+      product2 : ['역삼동전세', '천호동원룸', '마포구전세'],
       신고수 : 0,
       추천수 : 0,
     }
